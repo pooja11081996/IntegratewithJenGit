@@ -26,4 +26,9 @@ public void m5()
 {
 	System.out.println("Hiii method 5");
 }
+
+	public void m6()
+{
+	System.out.println("Hiii method 6");
+}
 }
